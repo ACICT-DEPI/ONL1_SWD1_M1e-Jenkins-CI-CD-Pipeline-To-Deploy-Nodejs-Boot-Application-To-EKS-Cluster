@@ -70,4 +70,4 @@ Kubernetes is a platform for automating the deployment, scaling, and management 
 ---
 
 ## License
-MIT
+Made By : Depi Team
